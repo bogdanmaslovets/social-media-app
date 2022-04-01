@@ -1,6 +1,6 @@
 # Social Media App
 
-### [View it](https://soical-media-app.netlify.app/)
+### [Visit](https://soical-media-app.netlify.app/)
 
 ![Social Media App](https://user-images.githubusercontent.com/93548530/161090336-39ff36fd-8a63-4942-b49f-de4972bbbd15.png)
 
